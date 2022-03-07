@@ -1,0 +1,16 @@
+{
+    "name": "shariful/laraquiz",
+    "description": "this package for quiz",
+    "require": {
+        "illuminate/support": "8.x-dev",
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shariful islam",
+            "email": "mdsharifulislam973@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
